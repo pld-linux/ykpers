@@ -2,7 +2,7 @@
 Summary:	Yubikey personalization program
 Name:		ykpers
 Version:	1.18.0
-Release:	1
+Release:	2
 License:	BSD
 Group:		Applications/System
 URL:		http://opensource.yubico.com/yubikey-personalization/
