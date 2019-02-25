@@ -27,7 +27,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Yubico's YubiKey can be re-programmed with a new AES key. This is a
 library that makes this an easy task.
 
-%description
+%description -l pl.UTF-8
 Urządzenia Yubico YubiKey można ponownie zaprogramować nowym kluczem
 AES. Ta biblioteka pozwala zrobić to łatwo.
 
