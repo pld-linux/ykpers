@@ -6,12 +6,12 @@
 Summary:	Yubikey personalization program
 Summary(pl.UTF-8):	Program do personalizacji urządzeń Yubikey
 Name:		ykpers
-Version:	1.19.0
+Version:	1.19.3
 Release:	1
 License:	BSD
 Group:		Applications/System
 Source0:	https://developers.yubico.com/yubikey-personalization/Releases/%{name}-%{version}.tar.gz
-# Source0-md5:	22084c0e55f3c3259963c0136adb3950
+# Source0-md5:	a1def7c7438345a776682e3a6999bf28
 URL:		https://developers.yubico.com/yubikey-personalization/
 BuildRequires:	asciidoc
 BuildRequires:	json-c-devel
